@@ -1,0 +1,439 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/nico/coding/scala/algebra/target/scala-2.12/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.1
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+26 items
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> /home/nico/coding/scala/algebra/target/scala-2.12/classes/Test$.class
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> /home/nico/coding/scala/algebra/target/scala-2.12/classes/Test$delayedInit$body.class
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> /home/nico/coding/scala/algebra/target/scala-2.12/classes/Test.class
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Field.scala -> /home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/Field.class
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> /home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/Matrix$.class
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> /home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/Matrix.class
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> /home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/Rational$.class
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> /home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/Rational.class
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> /home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/RationalField$.class
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> /home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/RationalField.class
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> /home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/Mult$.class
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> /home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/Mult.class
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> /home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/MultInverse$.class
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> /home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/MultInverse.class
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> /home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/Plus$.class
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> /home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/Plus.class
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> /home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/PlusInverse$.class
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> /home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/PlusInverse.class
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> /home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/Value$.class
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> /home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/Value.class
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> /home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/Var$.class
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> /home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/Var.class
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> /home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/VariablizedAST$.class
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> /home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/VariablizedAST.class
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> /home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/VariablizedASTField$.class
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> /home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/VariablizedASTField.class
+binary dependencies:
+9 items
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> /home/nico/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Field.scala -> /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> /home/nico/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> /home/nico/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> /home/nico/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+7 items
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> /home/nico/coding/scala/algebra/src/main/scala/linalg/Field.scala
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> /home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> /home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> /home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> /home/nico/coding/scala/algebra/src/main/scala/linalg/Field.scala
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> /home/nico/coding/scala/algebra/src/main/scala/linalg/Field.scala
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> /home/nico/coding/scala/algebra/src/main/scala/linalg/Field.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+2 items
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> /home/nico/coding/scala/algebra/src/main/scala/linalg/Field.scala
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> /home/nico/coding/scala/algebra/src/main/scala/linalg/Field.scala
+inheritance external dependencies:
+0 items
+class names:
+26 items
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> Test
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> Test$
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> Test$delayedInit$body
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Field.scala -> linalg.Field
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> linalg.Matrix
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> linalg.Matrix$
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> linalg.Rational
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> linalg.Rational$
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> linalg.RationalField
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> linalg.RationalField$
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> linalg.Mult
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> linalg.Mult$
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> linalg.MultInverse
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> linalg.MultInverse$
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> linalg.Plus
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> linalg.Plus$
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> linalg.PlusInverse
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> linalg.PlusInverse$
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> linalg.Value
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> linalg.Value$
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> linalg.Var
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> linalg.Var$
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> linalg.VariablizedAST
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> linalg.VariablizedAST$
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> linalg.VariablizedASTField
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> linalg.VariablizedASTField$
+used names:
+249 items
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> *
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> <init>
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> <repeated>
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> A
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> Any
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> App
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> Field
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> Function2
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> Int
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> Matrix
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> Nothing
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> Object
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> Predef
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> R
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> Rational
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> RationalField
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> String
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> T
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> Test
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> Unit
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> Var
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> VariablizedAST
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> VariablizedASTField
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> Vector
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> apply
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> astField
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> columns
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> i
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> j
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> linalg
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> one
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> package
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> println
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> rightSide
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> rows
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> scala
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> set
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> simplified
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> zero
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Field.scala -> A
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Field.scala -> AnyRef
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Field.scala -> linalg
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Field.scala -> scala
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> &&
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> <init>
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> ==
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> A
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> A1
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> Any
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> AnyRef
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> B
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> Boolean
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> CanBuildFrom
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> Coll
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> Field
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> Function1
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> Function2
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> IndexOutOfBoundsException
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> IndexedSeq
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> Int
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> Iterator
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> Matrix
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> None
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> Nothing
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> Object
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> Option
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> Predef
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> Product
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> Range
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> RichInt
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> ScalaRunTime
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> Serializable
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> Some
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> String
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> T
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> T0
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> That
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> Vector
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> _hashCode
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> _root_
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> _toString
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> apply
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> asInstanceOf
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> calc
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> canBuildFrom
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> column
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> columns
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> d
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> e
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> eq
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> f
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> field
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> fold
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> get
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> i
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> immutable
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> intWrapper
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> isInstanceOf
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> j
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> k
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> length
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> linalg
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> map
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> matrix
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> o
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> one
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> package
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> plus
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> row
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> rows
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> runtime
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> scala
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> scalar
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> times
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> toString
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> toVector
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> typedProductIterator
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> until
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> updated
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> zero
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> ||
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> &&
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> *
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> +
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> -
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> /
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> <
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> <init>
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> <repeated>
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> ==
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> >
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> A
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> AbstractFunction2
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> Any
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> AnyRef
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> Boolean
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> Field
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> IndexOutOfBoundsException
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> Int
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> Iterator
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> None
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> Nothing
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> Object
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> Option
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> Predef
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> Product
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> Rational
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> RationalField
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> RichInt
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> ScalaRunTime
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> Serializable
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> Some
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> Statics
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> String
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> StringContext
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> T
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> T0
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> T1
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> T2
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> Tuple2
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> _root_
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> a
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> abs
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> asInstanceOf
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> b
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> denom
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> eq
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> finalizeHash
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> g
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> gcd
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> intWrapper
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> inverse
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> isInstanceOf
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> linalg
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> mix
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> neg
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> num
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> one
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> package
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> runtime
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> s
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> scala
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> simplified
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> toString
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> typedProductIterator
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> unary_-
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> zero
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> ||
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> &&
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> <init>
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> ==
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> A
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> Any
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> AnyRef
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> Boolean
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> Field
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> IndexOutOfBoundsException
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> Int
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> Iterator
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> Mult
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> MultInverse
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> None
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> Nothing
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> Object
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> Option
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> Plus
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> PlusInverse
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> Predef
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> Product
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> ScalaRunTime
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> Serializable
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> Some
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> String
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> T
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> T0
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> T1
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> T2
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> Tuple2
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> Value
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> Var
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> VariablizedAST
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> VariablizedASTField
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> _hashCode
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> _root_
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> _toString
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> a
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> additiveInverse
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> asInstanceOf
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> ast
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> b
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> eq
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> field
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> isInstanceOf
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> left
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> linalg
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> multiplicativeInverse
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> name
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> one
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> package
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> plus
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> right
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> runtime
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> scala
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> simplify
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> times
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> toString
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> typedProductIterator
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> zero
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> ||
+product stamps:
+26 items
+/home/nico/coding/scala/algebra/target/scala-2.12/classes/Test$.class -> lastModified(1484848164000)
+/home/nico/coding/scala/algebra/target/scala-2.12/classes/Test$delayedInit$body.class -> lastModified(1484848164000)
+/home/nico/coding/scala/algebra/target/scala-2.12/classes/Test.class -> lastModified(1484848164000)
+/home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/Field.class -> lastModified(1484846927000)
+/home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/Matrix$.class -> lastModified(1484847434000)
+/home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/Matrix.class -> lastModified(1484847434000)
+/home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/Mult$.class -> lastModified(1484848030000)
+/home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/Mult.class -> lastModified(1484848030000)
+/home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/MultInverse$.class -> lastModified(1484848030000)
+/home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/MultInverse.class -> lastModified(1484848030000)
+/home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/Plus$.class -> lastModified(1484848030000)
+/home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/Plus.class -> lastModified(1484848030000)
+/home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/PlusInverse$.class -> lastModified(1484848030000)
+/home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/PlusInverse.class -> lastModified(1484848030000)
+/home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/Rational$.class -> lastModified(1484847969000)
+/home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/Rational.class -> lastModified(1484847969000)
+/home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/RationalField$.class -> lastModified(1484847969000)
+/home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/RationalField.class -> lastModified(1484847969000)
+/home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/Value$.class -> lastModified(1484848030000)
+/home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/Value.class -> lastModified(1484848030000)
+/home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/Var$.class -> lastModified(1484848030000)
+/home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/Var.class -> lastModified(1484848030000)
+/home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/VariablizedAST$.class -> lastModified(1484848030000)
+/home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/VariablizedAST.class -> lastModified(1484848030000)
+/home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/VariablizedASTField$.class -> lastModified(1484848030000)
+/home/nico/coding/scala/algebra/target/scala-2.12/classes/linalg/VariablizedASTField.class -> lastModified(1484848030000)
+source stamps:
+5 items
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> hash(34968850da3ab52f2a8c2d08182385dca5db6e07)
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Field.scala -> hash(60a07e5aeb2abe59102e7c59a701d8809a5671db)
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> hash(ba86d9aaf1b1ce730770ce346685006b7db6310c)
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> hash(8e03bba4bc2384f47b14f445200a5d7d1073f003)
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> hash(76c68b9fe5b631863f821e07a463f7ba7133325e)
+binary stamps:
+2 items
+/home/nico/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> lastModified(1480936165000)
+/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar -> lastModified(1477217975000)
+class names:
+2 items
+/home/nico/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> scala.App
+/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+5 items
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw5aFWWgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAFzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHAykU6adAAIYXN0RmllbGR1cQB+AAkAAAAdc3EAfgALBQv4oXQABm5vdGlmeXNxAH4ACyrTa/p0AAR3YWl0c3EAfgAL5YfXi3QADSRhc0luc3RhbmNlT2ZzcQB+AAtX09HidAAGZXF1YWxzc3EAfgALO4vxu3QAAVRzcQB+AAs8ampddAAMYXNJbnN0YW5jZU9mc3EAfgAL4BK/i3QADmV4ZWN1dGlvblN0YXJ0c3EAfgALvba6tnQADHN5bmNocm9uaXplZHNxAH4ACx1YdjZ0AA0kaXNJbnN0YW5jZU9mc3EAfgAL/wbzrXQACXJpZ2h0U2lkZXNxAH4AC/jG86h0AARtYWluc3EAfgAL+I+ZwnQACW5vdGlmeUFsbHNxAH4AC7YBrmp0AAxpc0luc3RhbmNlT2ZzcQB+AAu88fmydAACPT1zcQB+AAsTTM1WdAAFY2xvbmVzcQB+AAvluDa3dAAGJGluaXQkc3EAfgALeUMZDHQACnNpbXBsaWZpZWRzcQB+AAv9zWqedAAEVGVzdHNxAH4AC8qi6sl0AAh0b1N0cmluZ3NxAH4AC/doP8h0AARhcmdzc3EAfgALnHGixXQAAiE9c3EAfgALL4K5uXQACGdldENsYXNzc3EAfgALf63mJ3QAAVJzcQB+AAsauIuudAACbmVzcQB+AAvCudPTdAACZXFzcQB+AAuEzxP9dAALZGVsYXllZEluaXRzcQB+AAtcn8TBdAACIyNzcQB+AAscy/1ZdAAIZmluYWxpemVzcQB+AAu4/OyDdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBTeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+ADN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmd0ABBzY2FsYS5kZXByZWNhdGVkc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGxzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AU0wACWluaGVyaXRlZHEAfgBTTAAHcGFyZW50c3EAfgBTeHEAfgBxc3EAfgBsdXEAfgBOAAAAAHNxAH4AbHVxAH4ATgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AVHEAfgBddXEAfgBeAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4Ae3hwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AAxMAAV2YWx1ZXEAfgAMeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBwdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJVzcQB+AGAAcQB+ACV1cQB+AGIAAAAAc3EAfgCIdAAEVW5pdHEAfgCOdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AAxMAAN0cGVxAH4Ae3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AZXQABVBsYWlucQB+ADdzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AIlbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AHBzcQB+AIh0AAVBcnJheXEAfgCOdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AIh0AAZTdHJpbmdzcQB+AIxzcQB+AI91cQB+AJIAAAADc3EAfgCUdAAEamF2YXNxAH4AlHQABGxhbmdxAH4AmXNxAH4AbHVxAH4AsAAAAARzcQB+AIh0AANBcHBxAH4AjnNxAH4AiHQAC0RlbGF5ZWRJbml0cQB+AI5zcQB+AIh0AAZPYmplY3RxAH4AtHNxAH4AiHQAA0FueXEAfgCOdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVm32OCedXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAOS9ob21lL25pY28vY29kaW5nL3NjYWxhL2FsZ2VicmEvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFDSWiFDaOrUvKowtCBgjhdyl224H
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Field.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwMeymcAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAac3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hweso1AXQABm5vdGlmeXNxAH4ADNDhFxN0AAR3YWl0c3EAfgAMGXBrU3QADSRhc0luc3RhbmNlT2ZzcQB+AAwBKu1odAAEcGx1c3NxAH4ADNxSw+t0AAZlcXVhbHNzcQB+AAw4bqtKdAAEemVyb3NxAH4ADP5k+sJ0AAxhc0luc3RhbmNlT2ZzcQB+AAxeJBPxdAAMc3luY2hyb25pemVkc3EAfgAMnrxSqXQADSRpc0luc3RhbmNlT2ZzcQB+AAztWRVudAAJbm90aWZ5QWxsc3EAfgAME0axtHQADGlzSW5zdGFuY2VPZnNxAH4ADCjyI310ABVtdWx0aXBsaWNhdGl2ZUludmVyc2VzcQB+AAxxJT/8dAAFRmllbGRzcQB+AAyh/q4+dAACPT1zcQB+AAz2ztUUdAAFY2xvbmVzcQB+AAz2zI7UdAAFdGltZXNzcQB+AAxqddUsdAAIdG9TdHJpbmdzcQB+AAzqQXoOdAACIT1zcQB+AAxxjlo1dAAIZ2V0Q2xhc3NzcQB+AAzS3geydAAPYWRkaXRpdmVJbnZlcnNlc3EAfgAMVk0z13QAAm5lc3EAfgAMpmJFQXQAAmVxc3EAfgAM8dSkf3QAA29uZXNxAH4ADNshCHt0AAIjI3NxAH4ADD1Adi50AAhmaW5hbGl6ZXNxAH4ADBYplKh0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAF0AAxsaW5hbGcuRmllbGR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcmdpVdvjcpBrAgAGWwALYW5ub3RhdGlvbnNxAH4AUEwAAmlkcQB+AA1MAApsb3dlckJvdW5kdAAQTHhzYnRpL2FwaS9UeXBlO1sADnR5cGVQYXJhbWV0ZXJzcQB+AE1MAAp1cHBlckJvdW5kcQB+AF5MAAh2YXJpYW5jZXQAFEx4c2J0aS9hcGkvVmFyaWFuY2U7eHB1cQB+AFYAAAAAdAAObGluYWxnLkZpZWxkLkFzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwdAAHTm90aGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AcnVxAH4AWwAAAABzcQB+AGN0AANBbnlxAH4Aa35yABJ4c2J0aS5hcGkuVmFyaWFuY2UAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAlJbnZhcmlhbnR+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cQB+AHt0AAVUcmFpdHVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhxAH4AZXNxAH4Ag3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBLTAAJaW5oZXJpdGVkcQB+AEtMAAdwYXJlbnRzcQB+AEt4cQB+AGZzcQB+AIN1cQB+AEYAAAAAc3EAfgCDdXEAfgBGAAAAAHNxAH4Ag3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3EAfgBjdAAGT2JqZWN0c3EAfgBpc3EAfgBsdXEAfgBvAAAAA3NxAH4AcXQABGphdmFzcQB+AHF0AARsYW5ncQB+AHZzcQB+AGNxAH4AeXNxAH4AaXNxAH4AbHVxAH4AbwAAAAJzcQB+AHFxAH4AdHEAfgB2dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGbGluYWxnc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFZt8X1OHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADkvaG9tZS9uaWNvL2NvZGluZy9zY2FsYS9hbGdlYnJhL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRgoH5a6yq+WRAufFmnAdiAmlZx2w==
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw0DbftAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAqc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw1msaYXQABm5vdGlmeXNxAH4ADHzFbcF0AAd1bmFwcGx5c3EAfgAMI5HzfnQABHdhaXRzcQB+AAwvZCuPdAABKnNxAH4ADB4uBz10AA0kYXNJbnN0YW5jZU9mc3EAfgAMH1vHtHQADHByb2R1Y3RBcml0eXNxAH4ADIXSt6p0AAZlcXVhbHNzcQB+AAzGVY+adAAEemVyb3NxAH4ADHOvKtp0AAxhc0luc3RhbmNlT2ZzcQB+AAxTuJMxdAADc2V0c3EAfgAMLWngq3QABHJhbmtzcQB+AAz7Key9dAAMc3luY2hyb25pemVkc3EAfgAM+yp4rHQADSRpc0luc3RhbmNlT2ZzcQB+AAyCs675dAAGbWF0cml4c3EAfgAMTA8c1nQACGNhbkVxdWFsc3EAfgAMEJNvSnQADXByb2R1Y3RQcmVmaXhzcQB+AAxw/Z49dAAHaW52ZXJzZXNxAH4ADCM2/190AAlub3RpZnlBbGxzcQB+AAyIUENNdAAMaXNJbnN0YW5jZU9mc3EAfgAMcdzav3QABjxpbml0PnNxAH4ADL6JY1B0AAJpZHNxAH4ADMOgP590AAVhcHBseXNxAH4ADLNMFDF0AAI9PXNxAH4ADOhX5yd0AAdjb2x1bW5zc3EAfgAMuxjpYnQABWNsb25lc3EAfgAMQhESK3QABiRpbml0JHNxAH4ADMVCpw10AAZNYXRyaXhzcQB+AAwReqbzdAAEY29weXNxAH4ADOY3y4h0AAh0b1N0cmluZ3NxAH4ADPEfi+h0AAErc3EAfgAMI3DgS3QAAiE9c3EAfgAMuyfOanQAA2dldHNxAH4ADHfuSud0AAhnZXRDbGFzc3NxAH4ADHUdyTl0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADHuskDF0AAJuZXNxAH4ADOLo6o50AARyb3dzc3EAfgAMcE+ob3QAAmVxc3EAfgAMUaKUFXQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADGG5b4l0AAIjI3NxAH4ADPq5rx10AAhmaW5hbGl6ZXNxAH4ADAQApxd0AA5wcm9kdWN0RWxlbWVudHNxAH4ADBKRHX50AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AA1saW5hbGcuTWF0cml4dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAFzcgAXeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXJnaVXb43KQawIABlsAC2Fubm90YXRpb25zcQB+AHBMAAJpZHEAfgANTAAKbG93ZXJCb3VuZHQAEEx4c2J0aS9hcGkvVHlwZTtbAA50eXBlUGFyYW1ldGVyc3EAfgBtTAAKdXBwZXJCb3VuZHEAfgB+TAAIdmFyaWFuY2V0ABRMeHNidGkvYXBpL1ZhcmlhbmNlO3hwdXEAfgB2AAAAAHQAD2xpbmFsZy5NYXRyaXguQXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHB0AAdOb3RoaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCFc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCSdXEAfgB7AAAAAHNxAH4Ag3QAA0FueXEAfgCLfnIAEnhzYnRpLmFwaS5WYXJpYW5jZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACUludmFyaWFudH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhxAH4Am3QACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHEAfgCFc3EAfgCjc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGtMAAlpbmhlcml0ZWRxAH4Aa0wAB3BhcmVudHNxAH4Aa3hxAH4AhnNxAH4Ao3VxAH4AZgAAAABzcQB+AKN1cQB+AGYAAAAAc3EAfgCjdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcQB+AIN0AAxTZXJpYWxpemFibGVzcQB+AIlzcQB+AIx1cQB+AI8AAAACc3EAfgCRcQB+AJRxAH4AlnNxAH4Ag3EAfgCzc3EAfgCJc3EAfgCMdXEAfgCPAAAAA3NxAH4AkXQABGphdmFzcQB+AJF0AAJpb3EAfgCWc3EAfgCDdAAHUHJvZHVjdHEAfgC0c3EAfgCDdAAGRXF1YWxzcQB+ALRzcQB+AIN0AAZPYmplY3RzcQB+AIlzcQB+AIx1cQB+AI8AAAADc3EAfgCRcQB+AL1zcQB+AJF0AARsYW5ncQB+AJZzcQB+AINxAH4AmXEAfgC0c3EAfgBocQB+AHV1cQB+AHYAAAAAc3EAfgB4AHQADWxpbmFsZy5NYXRyaXh1cQB+AHsAAAAAfnEAfgCedAAGTW9kdWxldXEAfgChAAAAAHNxAH4Ao3EAfgCnc3EAfgCjc3EAfgCpc3EAfgCjdXEAfgBmAAAAAHNxAH4Ao3VxAH4AZgAAAABzcQB+AKN1cQB+ALAAAAAEc3EAfgCDcQB+ALNzcQB+AIlzcQB+AIx1cQB+AI8AAAACc3EAfgCRcQB+AJRxAH4AlnNxAH4Ag3EAfgCzc3EAfgCJc3EAfgCMdXEAfgCPAAAAA3NxAH4AkXEAfgC9c3EAfgCRdAACaW9xAH4AlnNxAH4Ag3EAfgDFc3EAfgCJc3EAfgCMdXEAfgCPAAAAA3NxAH4AkXEAfgC9c3EAfgCRcQB+AMtxAH4AlnNxAH4Ag3EAfgCZcQB+AN91cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZsaW5hbGdzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVm3zbb7dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOS9ob21lL25pY28vY29kaW5nL3NjYWxhL2FsZ2VicmEvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFLqG2arxsc5zB3DONGaFAGt9tjEM
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwkyhYFwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAsc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwr9qMgnQABm5vdGlmeXNxAH4ADBMtntR0AAR3YWl0c3EAfgAMSTNIE3QAASpzcQB+AAzd6mRzdAAOY29weSRkZWZhdWx0JDJzcQB+AAxWqFUOdAANJGFzSW5zdGFuY2VPZnNxAH4ADBk/wj10AAxwcm9kdWN0QXJpdHlzcQB+AAxNFTckdAAEcGx1c3NxAH4ADK7OJxt0AAZlcXVhbHNzcQB+AAzWIIbQdAAEemVyb3NxAH4ADHGQAQR0AAxhc0luc3RhbmNlT2ZzcQB+AAyLP/bsdAAMc3luY2hyb25pemVkc3EAfgAMgcUdcHQADSRpc0luc3RhbmNlT2ZzcQB+AAwD590AdAAIY2FuRXF1YWxzcQB+AAyGIZfVdAANcHJvZHVjdFByZWZpeHNxAH4ADNw3DFN0AAdpbnZlcnNlc3EAfgAMSTMNZ3QACW5vdGlmeUFsbHNxAH4ADGA7/h50AANuZWdzcQB+AAx3RpI8dAADbnVtc3EAfgAMmK1DtnQADGlzSW5zdGFuY2VPZnNxAH4ADA8GzC50ABVtdWx0aXBsaWNhdGl2ZUludmVyc2VzcQB+AAyfY3nbdAAGPGluaXQ+c3EAfgAMeEu7tnQAAj09c3EAfgAMYF7jrHQABWNsb25lc3EAfgAMAMRi73QABXRpbWVzc3EAfgAM4d90rnQABiRpbml0JHNxAH4ADFs9KL10AARjb3B5c3EAfgAMmBZd6HQACnNpbXBsaWZpZWRzcQB+AAwPSo7adAAIdG9TdHJpbmdzcQB+AAxsFWLVdAAFZGVub21zcQB+AAzVbrE1dAABK3NxAH4ADJ2eoeh0AAIhPXNxAH4ADPFbvOF0AAhnZXRDbGFzc3NxAH4ADMnUqWx0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADJzTkTp0AAhSYXRpb25hbHNxAH4ADNKTK4V0AA9hZGRpdGl2ZUludmVyc2VzcQB+AAyR36XDdAACbmVzcQB+AAwaVxlRdAACZXFzcQB+AAzw5lBDdAANUmF0aW9uYWxGaWVsZHNxAH4ADIvViQx0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAx/SH8QdAADb25lc3EAfgAMWkIvl3QAAiMjc3EAfgAM/rRwDnQACGZpbmFsaXplc3EAfgAMLMj/b3QADnByb2R1Y3RFbGVtZW50c3EAfgAMj/NUeHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Ab3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAD2xpbmFsZy5SYXRpb25hbHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCHc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AG9MAAlpbmhlcml0ZWRxAH4Ab0wAB3BhcmVudHNxAH4Ab3hxAH4AjHNxAH4Ah3VxAH4AagAAAABzcQB+AId1cQB+AGoAAAAAc3EAfgCHdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCLdAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCLc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgClc3EAfgCYcQB+AJtzcQB+AJxzcQB+AJ91cQB+AKIAAAADc3EAfgCkdAAEamF2YXNxAH4ApHQAAmlvcQB+AKlzcQB+AJh0AAdQcm9kdWN0cQB+AJ5zcQB+AJh0AAZFcXVhbHNxAH4AnnNxAH4AmHQABk9iamVjdHNxAH4AnHNxAH4An3VxAH4AogAAAANzcQB+AKRxAH4Ar3NxAH4ApHQABGxhbmdxAH4AqXNxAH4AmHQAA0FueXEAfgCec3EAfgBscQB+AHl1cQB+AHoAAAAAc3EAfgB8AHQAFGxpbmFsZy5SYXRpb25hbEZpZWxkdXEAfgB/AAAAAH5xAH4AgXQABk1vZHVsZXVxAH4AhQAAAABzcQB+AIdxAH4AjXNxAH4Ah3NxAH4Aj3NxAH4Ah3VxAH4AagAAAABzcQB+AId1cQB+AGoAAAAAc3EAfgCHdXEAfgCWAAAAA3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AmVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4Ai3NxAH4AmHQABUZpZWxkc3EAfgCcc3EAfgCfdXEAfgCiAAAAAnNxAH4ApHQABmxpbmFsZ3EAfgCpdXEAfgCWAAAAAXNxAH4AmHQACFJhdGlvbmFscQB+ANZzcQB+AJhxAH4At3NxAH4AnHNxAH4An3VxAH4AogAAAANzcQB+AKRxAH4Ar3NxAH4ApHEAfgC9cQB+AKlzcQB+AJhxAH4Av3NxAH4AnHNxAH4An3VxAH4AogAAAAJzcQB+AKRxAH4Ap3EAfgCpdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGbGluYWxnc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFZt9XgQ3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADkvaG9tZS9uaWNvL2NvZGluZy9zY2FsYS9hbGdlYnJhL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSOA7ukvCOE9HsU9EUgCl19EHPwAw==
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw+DanewAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAFzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHABUofddAAFZmllbGR1cQB+AAkAAAAyc3EAfgALJ9xHvHQABm5vdGlmeXNxAH4ACw7DI4F0AARuYW1lc3EAfgAL10fBkHQABHdhaXRzcQB+AAtUWo+NdAAOY29weSRkZWZhdWx0JDJzcQB+AAv9UwrcdAANJGFzSW5zdGFuY2VPZnNxAH4ACxaJyPN0AANWYXJzcQB+AAtsDoaOdAAMcHJvZHVjdEFyaXR5c3EAfgAL6wknwXQABHBsdXNzcQB+AAufwhoIdAAGZXF1YWxzc3EAfgALYS0vA3QABHplcm9zcQB+AAtW4K3KdAAMYXNJbnN0YW5jZU9mc3EAfgAL0hhsn3QADHN5bmNocm9uaXplZHNxAH4AC376GCV0AARsZWZ0c3EAfgAL5spzlnQAAWFzcQB+AAtpasFLdAANJGlzSW5zdGFuY2VPZnNxAH4AC7dt2aF0AARNdWx0c3EAfgALDr7TgXQACGNhbkVxdWFsc3EAfgALry+2XXQADXByb2R1Y3RQcmVmaXhzcQB+AAvkXsUsdAAFVmFsdWVzcQB+AAtIRGehdAAJbm90aWZ5QWxsc3EAfgAL9TxlW3QAC1BsdXNJbnZlcnNlc3EAfgALlhElWnQABFBsdXNzcQB+AAvWFVNtdAAMaXNJbnN0YW5jZU9mc3EAfgALhLBYzHQAFW11bHRpcGxpY2F0aXZlSW52ZXJzZXNxAH4ACzSIGPV0AAY8aW5pdD5zcQB+AAtE0GHldAAIc2ltcGxpZnlzcQB+AAuYao/9dAACPT1zcQB+AAsvxVKRdAAFY2xvbmVzcQB+AAsau54NdAAFdGltZXNzcQB+AAvXJqXjdAAGJGluaXQkc3EAfgAL+ldU53QADlZhcmlhYmxpemVkQVNUc3EAfgALeOG2jnQABGNvcHlzcQB+AAvmBXkddAAKc2ltcGxpZmllZHNxAH4ACwNC6IB0AAh0b1N0cmluZ3NxAH4AC+oyTw90AAIhPXNxAH4AC20cxfp0AAhnZXRDbGFzc3NxAH4AC5TFWF10AA5jb3B5JGRlZmF1bHQkMXNxAH4AC0ShxBx0AANhc3RzcQB+AAuSPqbBdAAPYWRkaXRpdmVJbnZlcnNlc3EAfgAL/Inng3QAC011bHRJbnZlcnNlc3EAfgALMm8wBnQAAm5lc3EAfgALQx9bcHQAE1ZhcmlhYmxpemVkQVNURmllbGRzcQB+AAuJy2ICdAACZXFzcQB+AAvhXK0NdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALhWz+IHQAA29uZXNxAH4AC7H1Dtp0AAVyaWdodHNxAH4AC0AyL7x0AAIjI3NxAH4AC0PGyuR0AAhmaW5hbGl6ZXNxAH4ACwJqnf90AA5wcm9kdWN0RWxlbWVudHNxAH4AC8uHW3R0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAlzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AH14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAl0ABVsaW5hbGcuVmFyaWFibGl6ZWRBU1R1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcmdpVdvjcpBrAgAGWwALYW5ub3RhdGlvbnNxAH4AgkwAAmlkcQB+AAxMAApsb3dlckJvdW5kdAAQTHhzYnRpL2FwaS9UeXBlO1sADnR5cGVQYXJhbWV0ZXJzcQB+AH9MAAp1cHBlckJvdW5kcQB+AJBMAAh2YXJpYW5jZXQAFEx4c2J0aS9hcGkvVmFyaWFuY2U7eHB1cQB+AIgAAAAAdAAXbGluYWxnLlZhcmlhYmxpemVkQVNULkFzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGk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edXEAfgChAAAAAnNxAH4Ao3EAfgCmcQB+AKhzcQB+AHpxAH4Ah3VxAH4AiAAAAABzcQB+AIoAdAAabGluYWxnLlZhcmlhYmxpemVkQVNURmllbGR1cQB+AI0AAAABc3EAfgCPdXEAfgCIAAAAAHQAHGxpbmFsZy5WYXJpYWJsaXplZEFTVEZpZWxkLkFxAH4AmXVxAH4AjQAAAABxAH4AqnEAfgCucQB+ANt1cQB+ALMAAAAAc3EAfgC1cQB+ALlzcQB+ALVzcQB+ALtzcQB+ALV1cQB+AHgAAAAAc3EAfgC1dXEAfgB4AAAAAHNxAH4AtXVxAH4AwgAAAAdzcQB+AJVxAH4A6HNxAH4Am3NxAH4AnnVxAH4AoQAAAAJzcQB+AKNxAH4ApnEAfgCoc3EAfgCVcQB+AOhzcQB+AJtzcQB+AJ51cQB+AKEAAAADc3EAfgCjcQB+AMpzcQB+AKN0AAJpb3EAfgCoc3EAfgCVcQB+APVxAH4CQXNxAH4AlXQABkVxdWFsc3EAfgJBc3EAfgD4c3EAfgCVdAAFRmllbGRzcQB+AJtzcQB+AJ51cQB+AKEAAAACc3EAfgCjdAAGbGluYWxncQB+AKh1cQB+AMIAAAABc3EAfgD4c3EAfgCVdAAOVmFyaWFibGl6ZWRBU1RxAH4CUnVxAH4AwgAAAAFzcQB+AQN0ABxsaW5hbGcuVmFyaWFibGl6ZWRBU1RGaWVsZC5Bc3EAfgCVcQB+AMVzcQB+AJtzcQB+AJ51cQB+AKEAAAADc3EAfgCjcQB+AMpzcQB+AKNxAH4AzHEAfgCoc3EAfgCVcQB+AKtxAH4CQXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQABmxpbmFsZ3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWbfW0Rx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdAA5L2hvbWUvbmljby9jb2Rpbmcvc2NhbGEvYWxnZWJyYS90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUdsaLn+W2MYY/gh4HpGP3unEzMl4=
+external apis:
+0 items
+source infos:
+5 items
+/home/nico/coding/scala/algebra/src/main/scala/Test.scala -> 
+AAAAAAAAAAA=
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Field.scala -> 
+AAAAAAAAAAA=
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Matrix.scala -> 
+AAAAAAAAAAA=
+/home/nico/coding/scala/algebra/src/main/scala/linalg/Rational.scala -> 
+AAAAAAAAAAA=
+/home/nico/coding/scala/algebra/src/main/scala/linalg/VariablizedField.scala -> 
+AAAAAAAAAAA=
+compilations:
+5 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWbfF9Th1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL25pY28vY29kaW5nL3NjYWxhL2FsZ2VicmEvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWbfNtvt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL25pY28vY29kaW5nL3NjYWxhL2FsZ2VicmEvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWbfV4EN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL25pY28vY29kaW5nL3NjYWxhL2FsZ2VicmEvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWbfW0Rx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL25pY28vY29kaW5nL3NjYWxhL2FsZ2VicmEvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWbfY4J51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL25pY28vY29kaW5nL3NjYWxhL2FsZ2VicmEvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=

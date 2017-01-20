@@ -1,0 +1,19 @@
+[0m[[0minfo[0m] [0mRunning Test [0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/home/nico/coding/scala/algebra/target/scala-2.12/classes[0m
+[0m[[0mdebug[0m] [0m	/home/nico/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar[0m
+[0m[[0mdebug[0m] [0m	/home/nico/.ivy2/cache/org.spire-math/spire_2.12/jars/spire_2.12-0.13.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/nico/.ivy2/cache/org.spire-math/spire-macros_2.12/jars/spire-macros_2.12-0.13.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/nico/.ivy2/cache/org.typelevel/machinist_2.12/jars/machinist_2.12-0.6.1.jar[0m
+[0m[[0mdebug[0m] [0m	/home/nico/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.1.jar[0m
+[0m[[0mdebug[0m] [0m	/home/nico/.ivy2/cache/org.spire-math/spire-laws_2.12/jars/spire-laws_2.12-0.13.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/nico/.ivy2/cache/org.spire-math/spire-extras_2.12/jars/spire-extras_2.12-0.13.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/nico/.ivy2/cache/org.typelevel/discipline_2.12/jars/discipline_2.12-0.7.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/nico/.ivy2/cache/org.scalacheck/scalacheck_2.12/jars/scalacheck_2.12-1.13.4.jar[0m
+[0m[[0mdebug[0m] [0m	/home/nico/.ivy2/cache/org.scala-sbt/test-interface/jars/test-interface-1.0.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m
