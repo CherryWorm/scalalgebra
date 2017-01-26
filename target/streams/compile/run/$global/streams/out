@@ -1,19 +1,13 @@
-[0m[[0minfo[0m] [0mRunning Test [0m
-[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
-[0m[[0mdebug[0m] [0m  Classpath:[0m
-[0m[[0mdebug[0m] [0m	/home/nico/coding/scala/algebra/target/scala-2.12/classes[0m
-[0m[[0mdebug[0m] [0m	/home/nico/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar[0m
-[0m[[0mdebug[0m] [0m	/home/nico/.ivy2/cache/org.spire-math/spire_2.12/jars/spire_2.12-0.13.0.jar[0m
-[0m[[0mdebug[0m] [0m	/home/nico/.ivy2/cache/org.spire-math/spire-macros_2.12/jars/spire-macros_2.12-0.13.0.jar[0m
-[0m[[0mdebug[0m] [0m	/home/nico/.ivy2/cache/org.typelevel/machinist_2.12/jars/machinist_2.12-0.6.1.jar[0m
-[0m[[0mdebug[0m] [0m	/home/nico/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.1.jar[0m
-[0m[[0mdebug[0m] [0m	/home/nico/.ivy2/cache/org.spire-math/spire-laws_2.12/jars/spire-laws_2.12-0.13.0.jar[0m
-[0m[[0mdebug[0m] [0m	/home/nico/.ivy2/cache/org.spire-math/spire-extras_2.12/jars/spire-extras_2.12-0.13.0.jar[0m
-[0m[[0mdebug[0m] [0m	/home/nico/.ivy2/cache/org.typelevel/discipline_2.12/jars/discipline_2.12-0.7.2.jar[0m
-[0m[[0mdebug[0m] [0m	/home/nico/.ivy2/cache/org.scalacheck/scalacheck_2.12/jars/scalacheck_2.12-1.13.4.jar[0m
-[0m[[0mdebug[0m] [0m	/home/nico/.ivy2/cache/org.scala-sbt/test-interface/jars/test-interface-1.0.jar[0m
-[0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
-[0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
-[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
-[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
-[0m[[0mdebug[0m] [0mExited with code 0[0m
+[info] Running Test 
+[debug] Waiting for threads to exit or System.exit to be called.
+[debug]   Classpath:
+[debug] 	D:\git\scalalgebra\target\scala-2.12\classes
+[debug] 	C:\Users\nicog\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.1.jar
+[debug] 	C:\Users\nicog\.ivy2\cache\com.github.mpilquist\simulacrum_2.12\jars\simulacrum_2.12-0.10.0.jar
+[debug] 	C:\Users\nicog\.ivy2\cache\org.typelevel\macro-compat_2.12\jars\macro-compat_2.12-1.1.1.jar
+[debug] 	C:\Users\nicog\.ivy2\cache\org.scalaz\scalaz-core_2.12\bundles\scalaz-core_2.12-7.2.8.jar
+[debug] Waiting for thread run-main-0 to terminate.
+[debug] 	Thread run-main-0 exited.
+[debug] Interrupting remaining threads (should be all daemons).
+[debug] Sandboxed run complete..
+[debug] Exited with code 0

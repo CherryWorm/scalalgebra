@@ -3,38 +3,21 @@ package linalg
 case class Rational(num: Int, denom: Int) {
 	
 	lazy val simplified: Rational = {
-		def gcd(a: Int, b: Int): Int = {
-			if(b == a) a
-			else if(a > b) gcd(a - b, b)
-			else gcd(a, b - a)
-		}
-		val g = gcd(num.abs, denom.abs)
-		if(num < 0 && denom < 0)
-			Rational(-num / g, -denom / g)
-		else if(num > 0 && denom > 0)
-			Rational(num / g, denom / g)
-		else
-			Rational(-num.abs / g, denom.abs / g)
+		val div = Math.gcd(num, denom)
+		Rational(num / div, denom / div)
 	}
 	
-	lazy val neg: Rational = Rational(-num, denom).simplified
-	lazy val inverse: Rational = Rational(denom, num).simplified
-	
-	def *(a: Rational) = {
-		Rational(num * a.num, denom * a.denom).simplified
-	}
-	def +(a: Rational) = {
-		Rational(num * a.denom + a.num * denom, denom * a.denom).simplified
-	}
-	
-	override def toString: String = if(num == 0) "0" else if(denom == 1) num.toString else s"\\frac{$num}{$denom}"
+	override def toString: String = if(num == 0) "0" else if(denom == 1) num.toString else (if(num * denom < 0) "-" else "") + s"\\frac{${num.abs}}{${denom.abs}}"
 }
-
-object RationalField extends Field[Rational] {
-	override def plus(a: Rational, b: Rational): Rational = a + b
-	override def times(a: Rational, b: Rational): Rational = a * b
-	override def additiveInverse(a: Rational): Rational = a.neg
-	override def multiplicativeInverse(a: Rational): Rational = a.inverse
-	override val zero: Rational = Rational(0, 1)
-	override val one: Rational = Rational(1, 1)
+object Rational {
+	implicit object RationalField extends Field[Rational] {
+		override def one: Rational = Rational(1, 1)
+		override def zero: Rational = Rational(0, 1)
+		override def invert(a: Rational): Rational = Rational(a.denom, a.num).simplified
+		override def negate(a: Rational): Rational = Rational(-a.num, a.denom).simplified
+		override def plus(a: Rational, b: Rational): Rational = Rational(a.num * b.denom + b.num * a.denom, a.denom * b.denom).simplified
+		override def times(a: Rational, b: Rational): Rational = Rational(a.num * b.num, a.denom * b.denom).simplified
+	}
+	
+	def apply(n: Int): Rational = Rational(n, 1)
 }

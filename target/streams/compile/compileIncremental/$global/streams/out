@@ -1,39 +1,40 @@
-[0m[[0mdebug[0m] [0m[naha] [0m
-[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
-[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
-[0m[[0mdebug[0m] [0m[naha] 	added: Set()[0m
-[0m[[0mdebug[0m] [0m[naha] 	modified: Set(/home/nico/coding/scala/algebra/src/main/scala/Test.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set(/home/nico/coding/scala/algebra/target/scala-2.12/classes/Test$.class, /home/nico/coding/scala/algebra/target/scala-2.12/classes/Test.class, /home/nico/coding/scala/algebra/target/scala-2.12/classes/Test$delayedInit$body.class)[0m
-[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
-[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
-[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/home/nico/coding/scala/algebra/src/main/scala/Test.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] [0m
-[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
-[0m[[0mdebug[0m] [0m[naha] 	product: Set(/home/nico/coding/scala/algebra/src/main/scala/Test.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
-[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
-[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/nico/coding/scala/algebra/src/main/scala/Test.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/nico/coding/scala/algebra/src/main/scala/Test.scala)[0m
-[0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/nico/coding/scala/algebra/target/scala-2.12/classes...[0m
-[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.12.1[0m
-[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.12.1[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler dd6ea14, interfacing (CompilerInterface) with Scala compiler version 2.12.1[0m
-[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
-[0m[[0mdebug[0m] [0m	-bootclasspath[0m
-[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-openjdk/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk/jre/classes:/home/nico/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar[0m
-[0m[[0mdebug[0m] [0m	-classpath[0m
-[0m[[0mdebug[0m] [0m	/home/nico/coding/scala/algebra/target/scala-2.12/classes:/home/nico/.ivy2/cache/org.spire-math/spire_2.12/jars/spire_2.12-0.13.0.jar:/home/nico/.ivy2/cache/org.spire-math/spire-macros_2.12/jars/spire-macros_2.12-0.13.0.jar:/home/nico/.ivy2/cache/org.typelevel/machinist_2.12/jars/machinist_2.12-0.6.1.jar:/home/nico/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.1.jar:/home/nico/.ivy2/cache/org.spire-math/spire-laws_2.12/jars/spire-laws_2.12-0.13.0.jar:/home/nico/.ivy2/cache/org.spire-math/spire-extras_2.12/jars/spire-extras_2.12-0.13.0.jar:/home/nico/.ivy2/cache/org.typelevel/discipline_2.12/jars/discipline_2.12-0.7.2.jar:/home/nico/.ivy2/cache/org.scalacheck/scalacheck_2.12/jars/scalacheck_2.12-1.13.4.jar:/home/nico/.ivy2/cache/org.scala-sbt/test-interface/jars/test-interface-1.0.jar[0m
-[0m[[0mdebug[0m] [0mScala compilation took 3.846594477 s[0m
-[0m[[0mdebug[0m] [0m[naha] Invalidating /home/nico/coding/scala/algebra/src/main/scala/Test.scala...[0m
-[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/nico/coding/scala/algebra/src/main/scala/Test.scala...[0m
-[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/nico/coding/scala/algebra/src/main/scala/Test.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/nico/coding/scala/algebra/src/main/scala/Test.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] The /home/nico/coding/scala/algebra/src/main/scala/Test.scala source file has the following regular definitions changed:[0m
-[0m[[0mdebug[0m] [0m[naha] 	simplified.[0m
-[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
-[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
-[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
-[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
-[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
-[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
-[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
+[debug] [naha] 
+[debug] [naha] Initial source changes: 
+[debug] [naha] 	removed:Set()
+[debug] [naha] 	added: Set()
+[debug] [naha] 	modified: Set(D:\git\scalalgebra\src\main\scala\Test.scala)
+[debug] [naha] Invalidated products: Set(D:\git\scalalgebra\target\scala-2.12\classes\Test$.class, D:\git\scalalgebra\target\scala-2.12\classes\Test$delayedInit$body.class, D:\git\scalalgebra\target\scala-2.12\classes\Test.class)
+[debug] [naha] External API changes: API Changes: Set()
+[debug] [naha] Modified binary dependencies: Set()
+[debug] [naha] Initial directly invalidated sources: Set(D:\git\scalalgebra\src\main\scala\Test.scala)
+[debug] [naha] 
+[debug] [naha] Sources indirectly invalidated by:
+[debug] [naha] 	product: Set(D:\git\scalalgebra\src\main\scala\Test.scala)
+[debug] [naha] 	binary dep: Set()
+[debug] [naha] 	external source: Set()
+[debug] All initially invalidated sources: Set(D:\git\scalalgebra\src\main\scala\Test.scala)
+[debug] [naha] Initial set of included nodes: Set(D:\git\scalalgebra\src\main\scala\Test.scala)
+[info] Compiling 1 Scala source to D:\git\scalalgebra\target\scala-2.12\classes...
+[debug] Getting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.12.1
+[debug] Getting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.12.1
+[debug] Running cached compiler f4132d, interfacing (CompilerInterface) with Scala compiler version 2.12.1
+[debug] Calling Scala compiler with arguments  (CompilerInterface):
+[debug] 	-Xplugin:C:\Users\nicog\.ivy2\cache\org.scalamacros\paradise_2.12.1\jars\paradise_2.12.1-2.1.0.jar
+[debug] 	-bootclasspath
+[debug] 	D:\lang\jdk8\jre\lib\resources.jar;D:\lang\jdk8\jre\lib\rt.jar;D:\lang\jdk8\jre\lib\sunrsasign.jar;D:\lang\jdk8\jre\lib\jsse.jar;D:\lang\jdk8\jre\lib\jce.jar;D:\lang\jdk8\jre\lib\charsets.jar;D:\lang\jdk8\jre\lib\jfr.jar;D:\lang\jdk8\jre\classes;C:\Users\nicog\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.1.jar
+[debug] 	-classpath
+[debug] 	D:\git\scalalgebra\target\scala-2.12\classes;C:\Users\nicog\.ivy2\cache\com.github.mpilquist\simulacrum_2.12\jars\simulacrum_2.12-0.10.0.jar;C:\Users\nicog\.ivy2\cache\org.typelevel\macro-compat_2.12\jars\macro-compat_2.12-1.1.1.jar;C:\Users\nicog\.ivy2\cache\org.scalaz\scalaz-core_2.12\bundles\scalaz-core_2.12-7.2.8.jar
+[debug] Scala compilation took 3.153996515 s
+[debug] [naha] Invalidating D:\git\scalalgebra\src\main\scala\Test.scala...
+[debug] [naha] Invalidating (transitively) by inheritance from D:\git\scalalgebra\src\main\scala\Test.scala...
+[debug] [naha] Initial set of included nodes: Set(D:\git\scalalgebra\src\main\scala\Test.scala)
+[debug] [naha] Invalidated by transitive inheritance dependency: Set(D:\git\scalalgebra\src\main\scala\Test.scala)
+[debug] [naha] The D:\git\scalalgebra\src\main\scala\Test.scala source file has the following regular definitions changed:
+[debug] [naha] 	b.
+[debug] [naha] All member reference dependencies will be considered within this context.
+[debug] [naha] New invalidations:
+[debug] [naha] 	Set()
+[debug] [naha] Initial set of included nodes: Set()
+[debug] [naha] Previously invalidated, but (transitively) depend on new invalidations:
+[debug] [naha] 	Set()
+[debug] [naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()

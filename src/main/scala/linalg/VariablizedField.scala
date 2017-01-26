@@ -1,37 +1,30 @@
 package linalg
 
-sealed trait VariablizedAST[A] {
-	def simplified(implicit field: Field[A]): VariablizedAST[A] = VariablizedAST.simplify(this)
+sealed trait Variablized[A]
+case class Plus[A](left: Variablized[A], right: Variablized[A]) extends Variablized[A] {
+	override def toString: String = s"$left + $right"
 }
-case class Plus[A](left: VariablizedAST[A], right: VariablizedAST[A])(implicit field: Field[A]) extends VariablizedAST[A]
-case class PlusInverse[A](ast: VariablizedAST[A])(implicit field: Field[A]) extends VariablizedAST[A]
-case class Mult[A](left: VariablizedAST[A], right: VariablizedAST[A])(implicit field: Field[A]) extends VariablizedAST[A]
-case class MultInverse[A](ast: VariablizedAST[A])(implicit field: Field[A]) extends VariablizedAST[A]
-case class Value[A](a: A)(implicit field: Field[A]) extends VariablizedAST[A]
-case class Var[A](name: String)(implicit field: Field[A]) extends VariablizedAST[A]
-
-object VariablizedAST {
-	def simplify[A](ast: VariablizedAST[A])(implicit field: Field[A]): VariablizedAST[A] = ast match {
-		case Plus(Value(a), Value(b)) => Value(field.plus(a, b))
-		case Plus(a, Value(field.zero)) => a
-		case Plus(Value(field.zero), a) => a
-		case PlusInverse(Value(a)) => Value(field.additiveInverse(a))
-		case Mult(Value(a), Value(b)) => Value(field.times(a, b))
-		case Mult(Value(field.zero), _) => Value(field.zero)
-		case Mult(_, Value(field.zero)) => Value(field.zero)
-		case Mult(a, Value(field.one)) => a
-		case Mult(Value(field.one), a) => a
-		case MultInverse(Value(a)) => Value(field.multiplicativeInverse(a))
-		case _ => ast
-	}
+case class PlusInverse[A](ast: Variablized[A]) extends Variablized[A] {
+	override def toString: String = s"\\left(-$ast\\right)"
+}
+case class Mult[A](left: Variablized[A], right: Variablized[A]) extends Variablized[A] {
+	override def toString: String = s"$left \\cdot $right"
+}
+case class MultInverse[A](ast: Variablized[A]) extends Variablized[A] {
+	override def toString: String = s"\\frac{1}{$ast}"
+}
+case class Val[A](a: A) extends Variablized[A] {
+	override def toString: String = a.toString
+}
+case class Var[A](name: String)(implicit field: Field[A]) extends Variablized[A] {
+	override def toString: String = name
 }
 
-case class VariablizedASTField[A](implicit field: Field[A]) extends Field[VariablizedAST[A]] {
-	override def plus(a: VariablizedAST[A], b: VariablizedAST[A]): VariablizedAST[A] = Plus(a, b)
-	override def times(a: VariablizedAST[A], b: VariablizedAST[A]): VariablizedAST[A] = Mult(a, b)
-	override def additiveInverse(a: VariablizedAST[A]): VariablizedAST[A] = PlusInverse(a)
-	override def multiplicativeInverse(a: VariablizedAST[A]): VariablizedAST[A] = MultInverse(a)
-	
-	override val zero: VariablizedAST[A] = Value(field.zero)
-	override val one: VariablizedAST[A] = Value(field.one)
+case class VariablizedField[A](implicit f: Field[A]) extends Field[Variablized[A]] {
+	override def one: Variablized[A] = Val(f.one)
+	override def zero: Variablized[A] = Val(f.zero)
+	override def invert(a: Variablized[A]): Variablized[A] = MultInverse(a)
+	override def negate(a: Variablized[A]): Variablized[A] = PlusInverse(a)
+	override def plus(a: Variablized[A], b: Variablized[A]): Variablized[A] = Plus(a, b)
+	override def times(a: Variablized[A], b: Variablized[A]): Variablized[A] = Mult(a, b)
 }

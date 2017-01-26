@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/algebra.iml" filepath="$PROJECT_DIR$/.idea/modules/algebra.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/algebra-build.iml" filepath="$PROJECT_DIR$/.idea/modules/algebra-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalalgebra.iml" filepath="$PROJECT_DIR$/.idea/modules/scalalgebra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalalgebra-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scalalgebra-build.iml" />
     </modules>
   </component>
 </project>
